@@ -15,4 +15,9 @@
 
 ## 使用方法
 
+- 下载UrbanSound8K数据集，添加相关依赖
 - 上述文件共包含两个模型，先train得到模型文件后，使用infer进行推理即可。
+
+## 相关链接
+
+- UrbanSound8K数据集下载地址：https://urbansounddataset.weebly.com/urbansound8k.html
